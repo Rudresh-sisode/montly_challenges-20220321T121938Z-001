@@ -16,7 +16,7 @@ monthly_challenges ={
     "november":"Walk for at least 20 minutes every day",
     "december":"Eat no meat for the entire month"
 }
-
+ 
 
 # Create your views here.
 
